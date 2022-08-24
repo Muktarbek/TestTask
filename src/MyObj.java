@@ -1,7 +1,3 @@
-import java.util.Objects;
-import java.util.Random;
-import java.util.UUID;
-
 public class MyObj {
      private int id;
 
